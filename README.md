@@ -1,5 +1,4 @@
 # Download-Vimeo-Videos
-# Backup Your Own Vimeo Videos Using Python
 
 ## Overview
 This Python script extracts information about your Vimeo videos and organizes their download links, allowing you to back up your own content efficiently.
@@ -49,5 +48,21 @@ for item in informations:
 
 # Displays the organized video list
 display(videos)
+# Backup Your Own Vimeo Videos Using Python
+
+## Overview
+This Python script extracts information about your Vimeo videos and organizes their download links, allowing you to back up your own content efficiently.
+
+## Picture
+![Backup Illustration](your-image-link-here)
+
+## Requirements
+Make sure you have the following dependencies installed:
+- `IPython`
+- `pprint`
+
+You can install missing dependencies using:
+```bash
+pip install ipython
 
 
